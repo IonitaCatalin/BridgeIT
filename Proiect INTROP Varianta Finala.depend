@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1547658213 source:c:\users\thispc\desktop\revizie proiect saptamana 14\proiect introp varianta finala\main.cpp
+	<string.h>
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	<math.h>
+	<windows.h>
+	<time.h>
+
+1547737452 source:c:\users\user03\desktop\proiect introp varianta finala\proiect introp varianta finala\main.cpp
+	<string.h>
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<cstring>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+	<math.h>
+	<windows.h>
+	<time.h>
+
